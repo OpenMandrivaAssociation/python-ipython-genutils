@@ -16,3 +16,5 @@ Pretend this doesn’t exist. Nobody should use it.
 Only there as a dependency for ipython.
 
 %files
+%{python_sitelib}/ipython_genutils-%{version}-py*.*.egg-info
+%{python_sitelib}/ipython_genutils/
