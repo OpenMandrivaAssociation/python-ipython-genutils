@@ -3,7 +3,7 @@
 Name:		python-ipython-genutils
 Summary:	Vestigial utilities from IPython
 Version:	0.2.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Python
 URL:		https://ipython.org/
